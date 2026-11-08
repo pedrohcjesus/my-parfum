@@ -1,0 +1,283 @@
+{
+ "perfume": "Versace Pour Homme Versace for men",
+ "marca": "Versace",
+ "fonte": "https://www.fragrantica.com/perfume/Versace/Versace-Pour-Homme-2318.html",
+ "coletado_em": "2026-11-07",
+ "reviews_carregadas": 200,
+ "nota_media": 4.26,
+ "votos_da_nota": 22760,
+ "acordes_principais_percentual": {
+  "citrus": 100,
+  "aromatic": 69.9,
+  "fresh spicy": 61.7,
+  "floral": 49.4,
+  "rose": 46.9,
+  "green": 44.1
+ },
+ "reacoes": {
+  "love": 10700,
+  "like": 8900,
+  "ok": 1800,
+  "dislike": 1200,
+  "hate": 210
+ },
+ "estacoes_e_periodo": {
+  "winter": 1400,
+  "spring": 11200,
+  "summer": 14300,
+  "fall": 3300,
+  "day": 13200,
+  "night": 3000
+ },
+ "fixacao": {
+  "very weak": 478,
+  "weak": 2000,
+  "moderate": 9100,
+  "long lasting": 2200,
+  "eternal": 372
+ },
+ "projecao": {
+  "intimate": 2300,
+  "moderate": 9400,
+  "strong": 1800,
+  "enormous": 440
+ },
+ "genero": {
+  "female": 68,
+  "more female": 29,
+  "unisex": 859,
+  "more male": 3900,
+  "male": 5800
+ },
+ "custo_beneficio": {
+  "way overpriced": 143,
+  "overpriced": 631,
+  "ok": 3000,
+  "good value": 4800,
+  "great value": 1500
+ },
+ "notas": {
+  "TOP NOTES": [
+   "Lemon",
+   "Bergamot",
+   "Neroli",
+   "Rose de Mai"
+  ],
+  "MIDDLE NOTES": [
+   "Hyacinth",
+   "Cedar",
+   "Clary Sage",
+   "Geranium"
+  ],
+  "BASE NOTES": [
+   "Musk",
+   "Tonka Bean",
+   "Amber"
+  ]
+ },
+ "descricao": "Versace Pour Homme by Versace is a Aromatic Fougere fragrance for men. Versace Pour Homme was launched in 2008. The nose behind this fragrance is Alberto Morillas. Top notes are Lemon, Bergamot, Neroli and Rose de Mai; middle notes are Hyacinth, Cedar, Clary Sage and Geranium; base notes are Musk, Tonka Bean and Amber.",
+ "pros_e_contras_resumo_ia": {
+  "pros": [
+   {
+    "agree": 1700,
+    "disagree": 17,
+    "text": "Can be worn as an everyday scent"
+   },
+   {
+    "agree": 1500,
+    "disagree": 38,
+    "text": "Versatile fragrance"
+   },
+   {
+    "agree": 1300,
+    "disagree": 54,
+    "text": "Excellent performance in heat and wind"
+   },
+   {
+    "agree": 1000,
+    "disagree": 57,
+    "text": "Sleek and attractive bottle design"
+   },
+   {
+    "agree": 710,
+    "disagree": 107,
+    "text": "High mass appeal and compliment potential"
+   },
+   {
+    "agree": 574,
+    "disagree": 296,
+    "text": "Vibrant Mediterranean floral-citrus scent profile"
+   },
+   {
+    "agree": 226,
+    "disagree": 3,
+    "text": "Clean, out-of-the-shower freshness"
+   },
+   {
+    "agree": 209,
+    "disagree": 4,
+    "text": "Reliable office and professional fragrance"
+   },
+   {
+    "agree": 197,
+    "disagree": 4,
+    "text": "Extremely versatile for all age groups"
+   },
+   {
+    "agree": 178,
+    "disagree": 12,
+    "text": "Exceptional value for the price"
+   }
+  ],
+  "cons": [
+   {
+    "agree": 992,
+    "disagree": 187,
+    "text": "Not as complex as other fragrances"
+   },
+   {
+    "agree": 813,
+    "disagree": 364,
+    "text": "May feel too safe or generic"
+   },
+   {
+    "agree": 237,
+    "disagree": 27,
+    "text": "Longevity often necessitates heavy application"
+   },
+   {
+    "agree": 22,
+    "disagree": 165,
+    "text": "Drydown can smell metallic or sour"
+   },
+   {
+    "agree": 258,
+    "disagree": 666,
+    "text": "Initial blast can feel sharp and synthetic"
+   }
+  ]
+ },
+ "lembra_votos": [
+  {
+   "brand": "CHANEL",
+   "name": "Allure Homme Sport",
+   "votes": 2900,
+   "agree": 832
+  },
+  {
+   "brand": "MISSONI",
+   "name": "Missoni Wave",
+   "votes": 898,
+   "agree": 149
+  },
+  {
+   "brand": "CHANEL",
+   "name": "Allure Homme Sport Superleggera",
+   "votes": 285,
+   "agree": 157
+  },
+  {
+   "brand": "IN THE BOX",
+   "name": "Versus Pour Homme",
+   "votes": 223,
+   "agree": 49
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Alpine Homme Sport",
+   "votes": 170,
+   "agree": 74
+  },
+  {
+   "brand": "GIORGIO ARMANI",
+   "name": "Acqua di Gio",
+   "votes": 458,
+   "agree": 793
+  },
+  {
+   "brand": "THERA COSMÉTICOS",
+   "name": "Lode",
+   "votes": 92,
+   "agree": 63
+  },
+  {
+   "brand": "CHANEL",
+   "name": "Allure Homme Sport Eau Extreme",
+   "votes": 413,
+   "agree": 716
+  },
+  {
+   "brand": "DOLCE&GABBANA",
+   "name": "Light Blue Pour Homme Eau de Toilette",
+   "votes": 58,
+   "agree": 59
+  },
+  {
+   "brand": "LA RIVE",
+   "name": "Absolute Sport",
+   "votes": 35,
+   "agree": 22
+  },
+  {
+   "brand": "AKRO",
+   "name": "Breathe",
+   "votes": 23,
+   "agree": 16
+  },
+  {
+   "brand": "RASASI",
+   "name": "Hatem",
+   "votes": 34,
+   "agree": 42
+  },
+  {
+   "brand": "BATH & BODY WORKS",
+   "name": "Freshwater",
+   "votes": 21,
+   "agree": 16
+  },
+  {
+   "brand": "RAYHAAN",
+   "name": "Ocean Rush",
+   "votes": 20,
+   "agree": 15
+  },
+  {
+   "brand": "DOLCE&GABBANA",
+   "name": "Light Blue pour Homme",
+   "votes": 132,
+   "agree": 239
+  },
+  {
+   "brand": "ABERCROMBIE & FITCH",
+   "name": "Away Man",
+   "votes": 17,
+   "agree": 10
+  },
+  {
+   "brand": "ZARA",
+   "name": "Lisboa Colombo Avenida do Colegio Militar 2022",
+   "votes": 29,
+   "agree": 35
+  },
+  {
+   "brand": "DOLCE&GABBANA",
+   "name": "Light Blue Eau Intense Pour Homme",
+   "votes": 203,
+   "agree": 383
+  },
+  {
+   "brand": "LATTAFA PERFUMES",
+   "name": "Liam Blue Shine",
+   "votes": 43,
+   "agree": 65
+  },
+  {
+   "brand": "NAUTICA",
+   "name": "Nautica Voyage",
+   "votes": 71,
+   "agree": 122
+  }
+ ],
+ "observacao": "Contagens com 'k' no Fragrantica vêm arredondadas (por exemplo, 2,3k)."
+}

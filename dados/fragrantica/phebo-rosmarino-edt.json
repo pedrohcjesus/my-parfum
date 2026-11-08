@@ -1,0 +1,155 @@
+{
+ "perfume": "Rosmarino Eau de Toilette Phebo for women and men",
+ "marca": "Phebo",
+ "fonte": "https://www.fragrantica.com/perfume/Phebo/Rosmarino-Eau-de-Toilette-125378.html",
+ "coletado_em": "2026-11-07",
+ "reviews_carregadas": 1,
+ "nota_media": 4.22,
+ "votos_da_nota": 77,
+ "acordes_principais_percentual": {
+  "aromatic": 100,
+  "fresh spicy": 99.5,
+  "citrus": 89.9,
+  "woody": 55.1,
+  "musky": 46.1,
+  "warm spicy": 45.7
+ },
+ "reacoes": {
+  "love": 27,
+  "like": 41,
+  "ok": 8,
+  "dislike": 1,
+  "hate": 0
+ },
+ "estacoes_e_periodo": {
+  "winter": 5,
+  "spring": 42,
+  "summer": 51,
+  "fall": 22,
+  "day": 47,
+  "night": 8
+ },
+ "fixacao": {
+  "very weak": 3,
+  "weak": 9,
+  "moderate": 23,
+  "long lasting": 0,
+  "eternal": 0
+ },
+ "projecao": {
+  "intimate": 16,
+  "moderate": 19,
+  "strong": 0,
+  "enormous": 0
+ },
+ "genero": {
+  "female": 0,
+  "more female": 0,
+  "unisex": 35,
+  "more male": 2,
+  "male": 1
+ },
+ "custo_beneficio": {
+  "way overpriced": 1,
+  "overpriced": 6,
+  "ok": 12,
+  "good value": 11,
+  "great value": 7
+ },
+ "notas": {
+  "TOP NOTES": [
+   "Sicilian Lemon",
+   "Rosemary",
+   "Nutmeg"
+  ],
+  "MIDDLE NOTES": [
+   "Black Pepper",
+   "Lily",
+   "Cardamom"
+  ],
+  "BASE NOTES": [
+   "Musk",
+   "Vetiver"
+  ]
+ },
+ "descricao": "",
+ "pros_e_contras_resumo_ia": {
+  "pros": [],
+  "cons": []
+ },
+ "lembra_votos": [
+  {
+   "brand": "PHEBO",
+   "name": "Água de Rosmarino",
+   "votes": 18,
+   "agree": 1
+  },
+  {
+   "brand": "PHEBO",
+   "name": "Limão Siciliano",
+   "votes": 13,
+   "agree": 6
+  },
+  {
+   "brand": "WE PINK",
+   "name": "Heaven Blue",
+   "votes": 5,
+   "agree": 2
+  },
+  {
+   "brand": "GIORGIO ARMANI",
+   "name": "Armani Eau Pour Homme (new)",
+   "votes": 3,
+   "agree": 1
+  },
+  {
+   "brand": "DIOR",
+   "name": "Eau Sauvage",
+   "votes": 2,
+   "agree": 1
+  },
+  {
+   "brand": "CALVIN KLEIN",
+   "name": "CK One",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "GRANADO",
+   "name": "Verbena",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "PHEBO",
+   "name": "Zimbro",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "MAISON MARTIN MARGIELA",
+   "name": "Under The Lemon Tree",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "NATURA",
+   "name": "Maracujá Natureza dos Sonhos",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "PHEBO",
+   "name": "Verbena Tropical",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "MUSCENT",
+   "name": "Ocean Mystery",
+   "votes": 1,
+   "agree": 1
+  }
+ ],
+ "observacao": "Contagens com 'k' no Fragrantica vêm arredondadas (por exemplo, 2,3k)."
+}

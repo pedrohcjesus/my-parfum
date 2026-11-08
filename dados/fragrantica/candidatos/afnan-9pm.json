@@ -1,0 +1,281 @@
+{
+ "perfume": "9pm Afnan for men",
+ "marca": "Afnan",
+ "fonte": "https://www.fragrantica.com/perfume/Afnan/9pm-65414.html",
+ "coletado_em": "2026-11-07",
+ "reviews_carregadas": 200,
+ "nota_media": 4.32,
+ "votos_da_nota": 19047,
+ "acordes_principais_percentual": {
+  "vanilla": 100,
+  "amber": 62.6,
+  "warm spicy": 59.9,
+  "fruity": 57.2,
+  "cinnamon": 55.4,
+  "sweet": 55.0,
+  "lavender": 54.1,
+  "aromatic": 51.2,
+  "fresh": 51.2,
+  "powdery": 50.4
+ },
+ "reacoes": {
+  "love": 10500,
+  "like": 5700,
+  "ok": 1700,
+  "dislike": 703,
+  "hate": 402
+ },
+ "estacoes_e_periodo": {
+  "winter": 13700,
+  "spring": 7200,
+  "summer": 3100,
+  "fall": 11500,
+  "day": 5700,
+  "night": 12600
+ },
+ "fixacao": {
+  "very weak": 182,
+  "weak": 426,
+  "moderate": 3700,
+  "long lasting": 9400,
+  "eternal": 1600
+ },
+ "projecao": {
+  "intimate": 642,
+  "moderate": 5100,
+  "strong": 7900,
+  "enormous": 1200
+ },
+ "genero": {
+  "female": 138,
+  "more female": 78,
+  "unisex": 2100,
+  "more male": 7100,
+  "male": 5700
+ },
+ "custo_beneficio": {
+  "way overpriced": 176,
+  "overpriced": 164,
+  "ok": 862,
+  "good value": 4100,
+  "great value": 9600
+ },
+ "notas": {
+  "TOP NOTES": [
+   "Apple",
+   "Cinnamon",
+   "Wild Lavender",
+   "Bergamot"
+  ],
+  "MIDDLE NOTES": [
+   "Orange Blossom",
+   "Lily-of-the-Valley"
+  ],
+  "BASE NOTES": [
+   "Vanilla",
+   "Tonka Bean",
+   "Amber",
+   "Patchouli"
+  ]
+ },
+ "descricao": "9pm by Afnan is a Oriental Vanilla fragrance for men. 9pm was launched in 2020. Top notes are Apple, Cinnamon, Wild Lavender and Bergamot; middle notes are Orange Blossom and Lily-of-the-Valley; base notes are Vanilla, Tonka Bean, Amber and Patchouli.",
+ "pros_e_contras_resumo_ia": {
+  "pros": [
+   {
+    "agree": 3300,
+    "disagree": 50,
+    "text": "Good heavy cap with great sprayer"
+   },
+   {
+    "agree": 3000,
+    "disagree": 49,
+    "text": "Excellent value for the price"
+   },
+   {
+    "agree": 2500,
+    "disagree": 109,
+    "text": "Highly accurate JPG Ultra Male alternative"
+   },
+   {
+    "agree": 2300,
+    "disagree": 263,
+    "text": "Blindbuy worthy"
+   },
+   {
+    "agree": 2200,
+    "disagree": 115,
+    "text": "Long-lasting performance on skin"
+   },
+   {
+    "agree": 2000,
+    "disagree": 100,
+    "text": "Excellent projection and sillage"
+   },
+   {
+    "agree": 1800,
+    "disagree": 180,
+    "text": "Lasts for days on clothes"
+   },
+   {
+    "agree": 411,
+    "disagree": 26,
+    "text": "Pleasant sweet apple and vanilla drydown"
+   },
+   {
+    "agree": 385,
+    "disagree": 22,
+    "text": "Beast-mode performance ideal for clubbing"
+   },
+   {
+    "agree": 336,
+    "disagree": 32,
+    "text": "Massive compliment-getter with high crowd appeal"
+   }
+  ],
+  "cons": [
+   {
+    "agree": 1300,
+    "disagree": 668,
+    "text": "Linear scent profile with minimal development"
+   },
+   {
+    "agree": 488,
+    "disagree": 69,
+    "text": "Can be cloying in high heat"
+   },
+   {
+    "agree": 338,
+    "disagree": 259,
+    "text": "Sharp, synthetic opening"
+   },
+   {
+    "agree": 229,
+    "disagree": 276,
+    "text": "Overwhelming sweetness can be headache-inducing"
+   }
+  ]
+ },
+ "lembra_votos": [
+  {
+   "brand": "JEAN PAUL GAULTIER",
+   "name": "Ultra Male",
+   "votes": 2900,
+   "agree": 180
+  },
+  {
+   "brand": "LATTAFA PERFUMES",
+   "name": "Ramz Lattafa Silver",
+   "votes": 741,
+   "agree": 72
+  },
+  {
+   "brand": "RAYHAAN",
+   "name": "Lion",
+   "votes": 297,
+   "agree": 47
+  },
+  {
+   "brand": "ARMAF",
+   "name": "Odyssey Spectra",
+   "votes": 149,
+   "agree": 23
+  },
+  {
+   "brand": "AL WATANIAH",
+   "name": "Attar Al Wesal",
+   "votes": 64,
+   "agree": 12
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Glacier Ultra",
+   "votes": 65,
+   "agree": 17
+  },
+  {
+   "brand": "ZARA",
+   "name": "Gourmand Leather",
+   "votes": 67,
+   "agree": 30
+  },
+  {
+   "brand": "DUMONT",
+   "name": "Nitro Green",
+   "votes": 50,
+   "agree": 12
+  },
+  {
+   "brand": "RASASI",
+   "name": "Hawas Gold Digger",
+   "votes": 49,
+   "agree": 11
+  },
+  {
+   "brand": "NIKE",
+   "name": "Nike Blue",
+   "votes": 59,
+   "agree": 41
+  },
+  {
+   "brand": "ZARA",
+   "name": "Gourmand Leather Nº0059",
+   "votes": 33,
+   "agree": 18
+  },
+  {
+   "brand": "FRAGRANCE ONE",
+   "name": "Date For Men",
+   "votes": 42,
+   "agree": 40
+  },
+  {
+   "brand": "ARMAF",
+   "name": "Odyssey Spectra Blue Edition",
+   "votes": 26,
+   "agree": 10
+  },
+  {
+   "brand": "ZARA",
+   "name": "Blue Zenith",
+   "votes": 25,
+   "agree": 10
+  },
+  {
+   "brand": "LE FALCONÉ PERFUMES",
+   "name": "Qannas",
+   "votes": 19,
+   "agree": 1
+  },
+  {
+   "brand": "ZARA",
+   "name": "Ocean Azure",
+   "votes": 19,
+   "agree": 4
+  },
+  {
+   "brand": "AARON TERENCE HUGHES",
+   "name": "Hard Candy Elixir",
+   "votes": 31,
+   "agree": 31
+  },
+  {
+   "brand": "RUE BROCA",
+   "name": "Touche Pour Homme",
+   "votes": 17,
+   "agree": 6
+  },
+  {
+   "brand": "JEANNE ARTHES",
+   "name": "Colonial Club Signature",
+   "votes": 15,
+   "agree": 6
+  },
+  {
+   "brand": "MAISON ASRAR",
+   "name": "Hunter",
+   "votes": 13,
+   "agree": 2
+  }
+ ],
+ "observacao": "Contagens com 'k' no Fragrantica vêm arredondadas (por exemplo, 2,3k)."
+}

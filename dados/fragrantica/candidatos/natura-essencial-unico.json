@@ -1,0 +1,287 @@
+{
+ "perfume": "Essencial Único Natura for men",
+ "marca": "Natura",
+ "fonte": "https://www.fragrantica.com/perfume/Natura/Essencial-Unico-72417.html",
+ "coletado_em": "2026-11-07",
+ "reviews_carregadas": 18,
+ "nota_media": 4.45,
+ "votos_da_nota": 1861,
+ "acordes_principais_percentual": {
+  "amber": 100,
+  "woody": 83.1,
+  "warm spicy": 77.3,
+  "balsamic": 70.4,
+  "vanilla": 54.7,
+  "sweet": 52.4,
+  "aromatic": 51.3,
+  "fresh spicy": 49.4,
+  "powdery": 45.7
+ },
+ "reacoes": {
+  "love": 1200,
+  "like": 400,
+  "ok": 140,
+  "dislike": 82,
+  "hate": 26
+ },
+ "estacoes_e_periodo": {
+  "winter": 1300,
+  "spring": 353,
+  "summer": 83,
+  "fall": 1100,
+  "day": 246,
+  "night": 1300
+ },
+ "fixacao": {
+  "very weak": 8,
+  "weak": 26,
+  "moderate": 231,
+  "long lasting": 876,
+  "eternal": 174
+ },
+ "projecao": {
+  "intimate": 57,
+  "moderate": 581,
+  "strong": 572,
+  "enormous": 91
+ },
+ "genero": {
+  "female": 12,
+  "more female": 5,
+  "unisex": 64,
+  "more male": 175,
+  "male": 1100
+ },
+ "custo_beneficio": {
+  "way overpriced": 29,
+  "overpriced": 147,
+  "ok": 580,
+  "good value": 373,
+  "great value": 140
+ },
+ "notas": {
+  "TOP NOTES": [
+   "Nutmeg",
+   "Ishpink, Ocotea Quixos",
+   "Saffron",
+   "Pink Pepper",
+   "Pomelo"
+  ],
+  "MIDDLE NOTES": [
+   "Copaiba balm",
+   "Cedar",
+   "Vetiver",
+   "Freesia"
+  ],
+  "BASE NOTES": [
+   "Amber",
+   "Myrrh",
+   "Vanilla",
+   "Benzoin",
+   "Coumarin",
+   "Opoponax",
+   "Labdanum",
+   "Musk"
+  ]
+ },
+ "descricao": "Essencial Único by Natura is a Woody fragrance for men. Essencial Único was launched in 2022. Essencial Único was created by Verônica Kato and Antoine Maisondieu. Top notes are Nutmeg, Ishpink, Ocotea Quixos, Saffron, Pink Pepper and Pomelo; middle notes are Copaiba balm, Cedar, Vetiver and Freesia; base notes are Amber, Myrrh, Vanilla, Benzoin, Coumarin, Opoponax, Labdanum and Musk.",
+ "pros_e_contras_resumo_ia": {
+  "pros": [
+   {
+    "agree": 53,
+    "disagree": 2,
+    "text": "Elegant choice for formal occasions"
+   },
+   {
+    "agree": 52,
+    "disagree": 1,
+    "text": "Sophisticated scent"
+   },
+   {
+    "agree": 49,
+    "disagree": 0,
+    "text": "Great choice for winter season"
+   },
+   {
+    "agree": 26,
+    "disagree": 0,
+    "text": "Long-lasting"
+   },
+   {
+    "agree": 24,
+    "disagree": 0,
+    "text": "Excellent quality"
+   },
+   {
+    "agree": 20,
+    "disagree": 4,
+    "text": "Niche-level quality and complexity"
+   },
+   {
+    "agree": 16,
+    "disagree": 1,
+    "text": "Compliments received when wearing it"
+   },
+   {
+    "agree": 7,
+    "disagree": 0,
+    "text": "Rich woody, resinous, and balsamic character"
+   }
+  ],
+  "cons": [
+   {
+    "agree": 39,
+    "disagree": 5,
+    "text": "Not suitable for warm weather"
+   },
+   {
+    "agree": 30,
+    "disagree": 7,
+    "text": "Dense and heavy scent profile"
+   },
+   {
+    "agree": 25,
+    "disagree": 14,
+    "text": "Intense resins can be cloying"
+   },
+   {
+    "agree": 19,
+    "disagree": 7,
+    "text": "Not suitable for everyday use"
+   },
+   {
+    "agree": 1,
+    "disagree": 7,
+    "text": "Redundant if you own other Essencial flankers"
+   },
+   {
+    "agree": 0,
+    "disagree": 7,
+    "text": "Polarizing medicinal or root beer nuances"
+   }
+  ]
+ },
+ "lembra_votos": [
+  {
+   "brand": "NATURA",
+   "name": "Homem Neo",
+   "votes": 179,
+   "agree": 67
+  },
+  {
+   "brand": "VIKTOR&ROLF",
+   "name": "Spicebomb",
+   "votes": 81,
+   "agree": 102
+  },
+  {
+   "brand": "NATURA",
+   "name": "Magia da Floresta",
+   "votes": 63,
+   "agree": 71
+  },
+  {
+   "brand": "IN THE BOX",
+   "name": "Mystic Newlands",
+   "votes": 7,
+   "agree": 6
+  },
+  {
+   "brand": "O BOTICÁRIO",
+   "name": "Malbec Eau de Parfum",
+   "votes": 4,
+   "agree": 1
+  },
+  {
+   "brand": "IN THE BOX",
+   "name": "Omnia IV",
+   "votes": 3,
+   "agree": 0
+  },
+  {
+   "brand": "IN THE BOX",
+   "name": "Origine Un",
+   "votes": 3,
+   "agree": 0
+  },
+  {
+   "brand": "JOOP!",
+   "name": "Wow!",
+   "votes": 11,
+   "agree": 17
+  },
+  {
+   "brand": "AMOUAGE",
+   "name": "Epic Man",
+   "votes": 2,
+   "agree": 1
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Ébène",
+   "votes": 2,
+   "agree": 1
+  },
+  {
+   "brand": "MEMO PARIS",
+   "name": "African Leather",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Afro Leather",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "BVLGARI",
+   "name": "Bvlgari Man In Black",
+   "votes": 22,
+   "agree": 42
+  },
+  {
+   "brand": "AVON",
+   "name": "Black Suede Real Intense",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "MAISON ASRAR",
+   "name": "III THRILLER",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "ARMAF",
+   "name": "Ombre d'Or",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "GUERLAIN",
+   "name": "Guerlain Homme Eau de Parfum (2016)",
+   "votes": 1,
+   "agree": 1
+  },
+  {
+   "brand": "TOMMY HILFIGER",
+   "name": "Impact Intense",
+   "votes": 8,
+   "agree": 15
+  },
+  {
+   "brand": "LATTAFA PERFUMES",
+   "name": "Wazeer",
+   "votes": 2,
+   "agree": 3
+  },
+  {
+   "brand": "LATTAFA PERFUMES",
+   "name": "Masa",
+   "votes": 1,
+   "agree": 1
+  }
+ ],
+ "observacao": "Contagens com 'k' no Fragrantica vêm arredondadas (por exemplo, 2,3k)."
+}

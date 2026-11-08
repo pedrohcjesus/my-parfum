@@ -1,0 +1,322 @@
+{
+ "perfume": "K Max Natura for men",
+ "marca": "Natura",
+ "fonte": "https://www.fragrantica.com/perfume/Natura/K-Max-55558.html",
+ "coletado_em": "2026-11-07",
+ "reviews_carregadas": 12,
+ "nota_media": 4.28,
+ "votos_da_nota": 1150,
+ "acordes_principais_percentual": {
+  "fresh spicy": 100,
+  "aromatic": 81.2,
+  "woody": 73.4,
+  "fresh": 59.8,
+  "citrus": 59.6,
+  "green": 58.7,
+  "warm spicy": 54.6,
+  "amber": 53.3,
+  "aquatic": 49.9
+ },
+ "reacoes": {
+  "love": 601,
+  "like": 358,
+  "ok": 114,
+  "dislike": 65,
+  "hate": 12
+ },
+ "estacoes_e_periodo": {
+  "winter": 491,
+  "spring": 762,
+  "summer": 593,
+  "fall": 731,
+  "day": 756,
+  "night": 725
+ },
+ "fixacao": {
+  "very weak": 17,
+  "weak": 37,
+  "moderate": 329,
+  "long lasting": 438,
+  "eternal": 32
+ },
+ "projecao": {
+  "intimate": 82,
+  "moderate": 565,
+  "strong": 182,
+  "enormous": 40
+ },
+ "genero": {
+  "female": 3,
+  "more female": 2,
+  "unisex": 16,
+  "more male": 96,
+  "male": 680
+ },
+ "custo_beneficio": {
+  "way overpriced": 19,
+  "overpriced": 70,
+  "ok": 293,
+  "good value": 300,
+  "great value": 78
+ },
+ "notas": {
+  "TOP NOTES": [
+   "Mint",
+   "Black Pepper",
+   "Watery Notes",
+   "Citruses",
+   "Ginger",
+   "Pink Pepper",
+   "Grapefruit",
+   "Storax"
+  ],
+  "MIDDLE NOTES": [
+   "Olibanum",
+   "Leather",
+   "Juniper",
+   "Lavender",
+   "Cardamom",
+   "Violet"
+  ],
+  "BASE NOTES": [
+   "Vetiver",
+   "Amber Xtreme",
+   "Patchouli",
+   "Cedar",
+   "Breu-Branco",
+   "Musk",
+   "Sandalwood",
+   "Cashmeran"
+  ]
+ },
+ "descricao": "K Max by Natura is a Woody Aromatic fragrance for men. K Max was launched in 2019. K Max was created by Verônica Kato, Nicolas Beaulieu and Jean-Christophe Hérault. Top notes are Mint, Black Pepper, Watery Notes, Citruses, Ginger, Pink Pepper, Grapefruit and Storax; middle notes are Olibanum, Leather, Juniper, Lavender, Cardamom and Violet; base notes are Vetiver, Amber Xtreme, Patchouli, Cedar, Breu-Branco, Musk, Sandalwood and Cashmeran.",
+ "pros_e_contras_resumo_ia": {
+  "pros": [
+   {
+    "agree": 11,
+    "disagree": 1,
+    "text": "Masculine and mature character"
+   },
+   {
+    "agree": 10,
+    "disagree": 1,
+    "text": "Complex spicy and herbal development"
+   },
+   {
+    "agree": 7,
+    "disagree": 1,
+    "text": "Compares well to luxury imports"
+   },
+   {
+    "agree": 8,
+    "disagree": 3,
+    "text": "Excellent 8-10 hour longevity"
+   },
+   {
+    "agree": 6,
+    "disagree": 0,
+    "text": "Sophisticated dark aquatic profile"
+   },
+   {
+    "agree": 5,
+    "disagree": 0,
+    "text": "Elegant office and date scent"
+   },
+   {
+    "agree": 4,
+    "disagree": 0,
+    "text": "High-quality ingredients for price"
+   },
+   {
+    "agree": 4,
+    "disagree": 0,
+    "text": "Versatile for year-round wear"
+   },
+   {
+    "agree": 4,
+    "disagree": 1,
+    "text": "Strong projection and sillage"
+   },
+   {
+    "agree": 4,
+    "disagree": 1,
+    "text": "Unique mint and incense blend"
+   }
+  ],
+  "cons": [
+   {
+    "agree": 3,
+    "disagree": 6,
+    "text": "Too dense for extreme heat"
+   },
+   {
+    "agree": 2,
+    "disagree": 5,
+    "text": "Not worth full retail price"
+   },
+   {
+    "agree": 1,
+    "disagree": 3,
+    "text": "Polarizing medicinal camphor notes"
+   },
+   {
+    "agree": 1,
+    "disagree": 4,
+    "text": "Inconsistent performance across batches"
+   },
+   {
+    "agree": 1,
+    "disagree": 5,
+    "text": "Deviates from original Kaiak DNA"
+   },
+   {
+    "agree": 1,
+    "disagree": 5,
+    "text": "Can cause headaches for some"
+   },
+   {
+    "agree": 0,
+    "disagree": 5,
+    "text": "Synthetic chemical scent profile"
+   },
+   {
+    "agree": 0,
+    "disagree": 5,
+    "text": "Harsh, bitter citrus opening"
+   },
+   {
+    "agree": 0,
+    "disagree": 6,
+    "text": "Smells like leather upholstery"
+   },
+   {
+    "agree": 0,
+    "disagree": 7,
+    "text": "Risky blind buy choice"
+   }
+  ]
+ },
+ "lembra_votos": [
+  {
+   "brand": "GIORGIO ARMANI",
+   "name": "Acqua di Giò Profumo",
+   "votes": 205,
+   "agree": 111
+  },
+  {
+   "brand": "NATURA",
+   "name": "Kaiak Noite",
+   "votes": 61,
+   "agree": 7
+  },
+  {
+   "brand": "GIORGIO ARMANI",
+   "name": "Acqua di Giò Parfum",
+   "votes": 70,
+   "agree": 71
+  },
+  {
+   "brand": "RALPH LAUREN",
+   "name": "Polo Blue Gold Blend",
+   "votes": 71,
+   "agree": 86
+  },
+  {
+   "brand": "MICHAEL MALUL LONDON",
+   "name": "Ocean Noir",
+   "votes": 11,
+   "agree": 0
+  },
+  {
+   "brand": "MICHAEL MALUL LONDON",
+   "name": "Ocean Noir Parfum",
+   "votes": 10,
+   "agree": 0
+  },
+  {
+   "brand": "GIORGIO ARMANI",
+   "name": "Acqua di Giò Elixir",
+   "votes": 19,
+   "agree": 20
+  },
+  {
+   "brand": "IN THE BOX",
+   "name": "Deep Dark Water 2025",
+   "votes": 10,
+   "agree": 2
+  },
+  {
+   "brand": "ISSEY MIYAKE",
+   "name": "L’Eau d’Issey pour Homme Vetiver",
+   "votes": 3,
+   "agree": 0
+  },
+  {
+   "brand": "RIIFFS PERFUMES",
+   "name": "Freeze in flames",
+   "votes": 4,
+   "agree": 2
+  },
+  {
+   "brand": "BVLGARI",
+   "name": "Aqva Pour Homme Atlantiqve",
+   "votes": 6,
+   "agree": 7
+  },
+  {
+   "brand": "TOM FORD",
+   "name": "Costa Azzurra",
+   "votes": 4,
+   "agree": 3
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Jorge di Profumo",
+   "votes": 8,
+   "agree": 11
+  },
+  {
+   "brand": "LALIQUE",
+   "name": "Encre Noire Sport",
+   "votes": 8,
+   "agree": 12
+  },
+  {
+   "brand": "THERA COSMÉTICOS",
+   "name": "Volcano",
+   "votes": 7,
+   "agree": 10
+  },
+  {
+   "brand": "O BOTICÁRIO",
+   "name": "Botica 214 Dark Mint",
+   "votes": 4,
+   "agree": 4
+  },
+  {
+   "brand": "THERA COSMÉTICOS",
+   "name": "Volcano Gold",
+   "votes": 22,
+   "agree": 40
+  },
+  {
+   "brand": "ROJA DOVE",
+   "name": "Elysium Pour Homme Parfum Cologne",
+   "votes": 2,
+   "agree": 1
+  },
+  {
+   "brand": "HINODE",
+   "name": "Lattitude Origini",
+   "votes": 4,
+   "agree": 5
+  },
+  {
+   "brand": "LATTAFA PERFUMES",
+   "name": "Suqraat",
+   "votes": 3,
+   "agree": 3
+  }
+ ],
+ "observacao": "Contagens com 'k' no Fragrantica vêm arredondadas (por exemplo, 2,3k)."
+}

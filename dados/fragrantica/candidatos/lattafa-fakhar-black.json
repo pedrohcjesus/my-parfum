@@ -1,0 +1,282 @@
+{
+ "perfume": "Fakhar Black Lattafa Perfumes for men",
+ "marca": "Lattafa Perfumes",
+ "fonte": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Fakhar-Black-70465.html",
+ "coletado_em": "2026-11-07",
+ "reviews_carregadas": 200,
+ "nota_media": 4.19,
+ "votos_da_nota": 8512,
+ "acordes_principais_percentual": {
+  "aromatic": 100,
+  "fresh spicy": 97.1,
+  "woody": 77.4,
+  "fruity": 73.2,
+  "fresh": 65.3,
+  "citrus": 63.8,
+  "lavender": 62.6,
+  "green": 56.6,
+  "herbal": 54.8,
+  "amber": 54.4
+ },
+ "reacoes": {
+  "love": 3700,
+  "like": 3400,
+  "ok": 981,
+  "dislike": 345,
+  "hate": 131
+ },
+ "estacoes_e_periodo": {
+  "winter": 1800,
+  "spring": 5700,
+  "summer": 5800,
+  "fall": 4000,
+  "day": 5700,
+  "night": 3400
+ },
+ "fixacao": {
+  "very weak": 174,
+  "weak": 706,
+  "moderate": 4400,
+  "long lasting": 1500,
+  "eternal": 112
+ },
+ "projecao": {
+  "intimate": 871,
+  "moderate": 4600,
+  "strong": 1000,
+  "enormous": 94
+ },
+ "genero": {
+  "female": 53,
+  "more female": 17,
+  "unisex": 437,
+  "more male": 2100,
+  "male": 3900
+ },
+ "custo_beneficio": {
+  "way overpriced": 92,
+  "overpriced": 84,
+  "ok": 474,
+  "good value": 1900,
+  "great value": 3900
+ },
+ "notas": {
+  "TOP NOTES": [
+   "Apple",
+   "Bergamot",
+   "Ginger"
+  ],
+  "MIDDLE NOTES": [
+   "Lavender",
+   "Sage",
+   "Juniper Berries",
+   "Geranium"
+  ],
+  "BASE NOTES": [
+   "Tonka Bean",
+   "Cedar",
+   "Amberwood",
+   "Vetiver"
+  ]
+ },
+ "descricao": "Fakhar Black by Lattafa Perfumes is a Oriental fragrance for men. Fakhar Black was launched in 2022. Top notes are Apple, Bergamot and Ginger; middle notes are Lavender, Sage, Juniper Berries and Geranium; base notes are Tonka Bean, Cedar, Amberwood and Vetiver.",
+ "pros_e_contras_resumo_ia": {
+  "pros": [
+   {
+    "agree": 1100,
+    "disagree": 15,
+    "text": "Affordable price point"
+   },
+   {
+    "agree": 989,
+    "disagree": 26,
+    "text": "Excellent quality-to-price ratio"
+   },
+   {
+    "agree": 982,
+    "disagree": 17,
+    "text": "Fresh and versatile scent"
+   },
+   {
+    "agree": 585,
+    "disagree": 38,
+    "text": "Hybrid of YSL Y EDT and EDP"
+   },
+   {
+    "agree": 600,
+    "disagree": 84,
+    "text": "Premium bottle and box presentation"
+   },
+   {
+    "agree": 432,
+    "disagree": 196,
+    "text": "Lasts significantly longer on clothes than skin"
+   },
+   {
+    "agree": 191,
+    "disagree": 17,
+    "text": "Safe blind buy for blue fragrance fans"
+   },
+   {
+    "agree": 176,
+    "disagree": 12,
+    "text": "Clean, versatile office and gym fragrance"
+   },
+   {
+    "agree": 162,
+    "disagree": 9,
+    "text": "Mass-appealing fresh shower gel scent"
+   }
+  ],
+  "cons": [
+   {
+    "agree": 187,
+    "disagree": 23,
+    "text": "May require maceration for best performance"
+   },
+   {
+    "agree": 139,
+    "disagree": 12,
+    "text": "Lacks the woodiness of the original"
+   },
+   {
+    "agree": 102,
+    "disagree": 33,
+    "text": "Recent batches show inconsistent longevity"
+   },
+   {
+    "agree": 75,
+    "disagree": 82,
+    "text": "Drydown may feel synthetic or soapy"
+   },
+   {
+    "agree": 69,
+    "disagree": 74,
+    "text": "Sweeter, bubblegum-like profile compared to YSL"
+   }
+  ]
+ },
+ "lembra_votos": [
+  {
+   "brand": "YVES SAINT LAURENT",
+   "name": "Y Eau de Parfum",
+   "votes": 2000,
+   "agree": 325
+  },
+  {
+   "brand": "YVES SAINT LAURENT",
+   "name": "Yves Saint Laurent Y",
+   "votes": 402,
+   "agree": 119
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Yeah!",
+   "votes": 217,
+   "agree": 48
+  },
+  {
+   "brand": "RABANNE",
+   "name": "Invictus",
+   "votes": 316,
+   "agree": 278
+  },
+  {
+   "brand": "ARMAF",
+   "name": "Odyssey Mega Man",
+   "votes": 155,
+   "agree": 43
+  },
+  {
+   "brand": "MONTBLANC",
+   "name": "Legend Spirit",
+   "votes": 163,
+   "agree": 150
+  },
+  {
+   "brand": "YVES SAINT LAURENT",
+   "name": "Y Le Parfum",
+   "votes": 132,
+   "agree": 107
+  },
+  {
+   "brand": "LATTAFA PERFUMES",
+   "name": "Sheikh Shuyukh Final Edition",
+   "votes": 96,
+   "agree": 38
+  },
+  {
+   "brand": "YVES SAINT LAURENT",
+   "name": "Y Live",
+   "votes": 57,
+   "agree": 35
+  },
+  {
+   "brand": "ARMAF",
+   "name": "Dunescape",
+   "votes": 45,
+   "agree": 15
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Yeah! Parfum",
+   "votes": 39,
+   "agree": 20
+  },
+  {
+   "brand": "YVES SAINT LAURENT",
+   "name": "Y Eau de Toilette",
+   "votes": 35,
+   "agree": 17
+  },
+  {
+   "brand": "ASDAAF",
+   "name": "Ameer Al Arab Imperium",
+   "votes": 26,
+   "agree": 14
+  },
+  {
+   "brand": "RALPH LAUREN",
+   "name": "Polo 67",
+   "votes": 59,
+   "agree": 83
+  },
+  {
+   "brand": "LOU DE PRE",
+   "name": "Midnight Desert",
+   "votes": 18,
+   "agree": 6
+  },
+  {
+   "brand": "YVES SAINT LAURENT",
+   "name": "Y Elixir",
+   "votes": 27,
+   "agree": 25
+  },
+  {
+   "brand": "AFNAN",
+   "name": "9am Dive",
+   "votes": 53,
+   "agree": 86
+  },
+  {
+   "brand": "LATTAFA PERFUMES",
+   "name": "Malik Al Tayoor Concentrated",
+   "votes": 21,
+   "agree": 26
+  },
+  {
+   "brand": "MAWWAL ARABIA",
+   "name": "Ghamra",
+   "votes": 8,
+   "agree": 1
+  },
+  {
+   "brand": "ARMAF",
+   "name": "Hunter Intense",
+   "votes": 20,
+   "agree": 26
+  }
+ ],
+ "observacao": "Contagens com 'k' no Fragrantica vêm arredondadas (por exemplo, 2,3k)."
+}

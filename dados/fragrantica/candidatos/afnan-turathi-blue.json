@@ -1,0 +1,276 @@
+{
+ "perfume": "Turathi Blue Afnan for men",
+ "marca": "Afnan",
+ "fonte": "https://www.fragrantica.com/perfume/Afnan/Turathi-Blue-70839.html",
+ "coletado_em": "2026-11-07",
+ "reviews_carregadas": 200,
+ "nota_media": 4.31,
+ "votos_da_nota": 8645,
+ "acordes_principais_percentual": {
+  "citrus": 100,
+  "musky": 71.5,
+  "woody": 66.1,
+  "fresh": 65,
+  "amber": 55.4,
+  "powdery": 54.6,
+  "warm spicy": 51.8,
+  "patchouli": 46.6,
+  "fresh spicy": 44.0
+ },
+ "reacoes": {
+  "love": 4900,
+  "like": 2400,
+  "ok": 800,
+  "dislike": 407,
+  "hate": 185
+ },
+ "estacoes_e_periodo": {
+  "winter": 1000,
+  "spring": 5500,
+  "summer": 6100,
+  "fall": 3100,
+  "day": 5600,
+  "night": 2700
+ },
+ "fixacao": {
+  "very weak": 95,
+  "weak": 282,
+  "moderate": 2500,
+  "long lasting": 3000,
+  "eternal": 225
+ },
+ "projecao": {
+  "intimate": 363,
+  "moderate": 3900,
+  "strong": 1600,
+  "enormous": 156
+ },
+ "genero": {
+  "female": 90,
+  "more female": 32,
+  "unisex": 617,
+  "more male": 2200,
+  "male": 3100
+ },
+ "custo_beneficio": {
+  "way overpriced": 97,
+  "overpriced": 106,
+  "ok": 568,
+  "good value": 2200,
+  "great value": 2900
+ },
+ "notas": {
+  "TOP NOTES": [
+   "Citruses"
+  ],
+  "MIDDLE NOTES": [
+   "Woodsy Notes",
+   "Amber"
+  ],
+  "BASE NOTES": [
+   "Musk",
+   "Spices",
+   "Patchouli"
+  ]
+ },
+ "descricao": "Turathi Blue by Afnan is a Aromatic Aquatic fragrance for men. Turathi Blue was launched in 2021. The nose behind this fragrance is Imran Fazlani. Top note is Citruses; middle notes are Woodsy Notes and Amber; base notes are Musk, Spices and Patchouli.",
+ "pros_e_contras_resumo_ia": {
+  "pros": [
+   {
+    "agree": 1300,
+    "disagree": 14,
+    "text": "Affordable price"
+   },
+   {
+    "agree": 1200,
+    "disagree": 59,
+    "text": "Sparkling grapefruit and citrus opening"
+   },
+   {
+    "agree": 981,
+    "disagree": 109,
+    "text": "Excellent longevity and projection"
+   },
+   {
+    "agree": 788,
+    "disagree": 36,
+    "text": "Highly versatile for any occasion"
+   },
+   {
+    "agree": 718,
+    "disagree": 53,
+    "text": "Invigorating and addictive scent"
+   },
+   {
+    "agree": 675,
+    "disagree": 61,
+    "text": "Well-rounded opening with no rough edges"
+   },
+   {
+    "agree": 578,
+    "disagree": 65,
+    "text": "Excellent affordable alternative to Bvlgari Tygar"
+   },
+   {
+    "agree": 243,
+    "disagree": 9,
+    "text": "Premium presentation with a heavy bottle"
+   },
+   {
+    "agree": 139,
+    "disagree": 32,
+    "text": "Successful hybrid of Tygar and BDC"
+   }
+  ],
+  "cons": [
+   {
+    "agree": 367,
+    "disagree": 55,
+    "text": "Unstable bottle design tips over easily"
+   },
+   {
+    "agree": 354,
+    "disagree": 53,
+    "text": "Fussy cap requires precise alignment"
+   },
+   {
+    "agree": 199,
+    "disagree": 98,
+    "text": "May require maturation for best results"
+   },
+   {
+    "agree": 52,
+    "disagree": 196,
+    "text": "Linear scent profile lacks development"
+   },
+   {
+    "agree": 37,
+    "disagree": 199,
+    "text": "Musky dry down can be polarizing"
+   }
+  ]
+ },
+ "lembra_votos": [
+  {
+   "brand": "BVLGARI",
+   "name": "Tygar",
+   "votes": 1700,
+   "agree": 310
+  },
+  {
+   "brand": "SOSPIRO PERFUMES",
+   "name": "Vibrato",
+   "votes": 851,
+   "agree": 216
+  },
+  {
+   "brand": "RUE BROCA",
+   "name": "Théorème Homme",
+   "votes": 386,
+   "agree": 50
+  },
+  {
+   "brand": "LATTAFA PERFUMES",
+   "name": "Al Qiam Silver",
+   "votes": 244,
+   "agree": 38
+  },
+  {
+   "brand": "GOLDFIELD & BANKS AUSTRALIA",
+   "name": "Ingenious Ginger",
+   "votes": 262,
+   "agree": 171
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Sceptre Bronzite",
+   "votes": 171,
+   "agree": 30
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Jean Lowe Immortal",
+   "votes": 312,
+   "agree": 394
+  },
+  {
+   "brand": "RASASI",
+   "name": "Hawas Highness",
+   "votes": 114,
+   "agree": 23
+  },
+  {
+   "brand": "ALEXANDRIA FRAGRANCES",
+   "name": "Black Panther",
+   "votes": 101,
+   "agree": 42
+  },
+  {
+   "brand": "RASASI",
+   "name": "Shuhrah Elixir",
+   "votes": 82,
+   "agree": 9
+  },
+  {
+   "brand": "MAISON ASRAR",
+   "name": "Majesty",
+   "votes": 75,
+   "agree": 11
+  },
+  {
+   "brand": "MICHAEL MALUL LONDON",
+   "name": "Terra Nova",
+   "votes": 74,
+   "agree": 27
+  },
+  {
+   "brand": "EX NIHILO",
+   "name": "The Hedonist",
+   "votes": 84,
+   "agree": 53
+  },
+  {
+   "brand": "KAJAL",
+   "name": "Kajal III",
+   "votes": 64,
+   "agree": 16
+  },
+  {
+   "brand": "PANA DORA",
+   "name": "Aqua de Dora",
+   "votes": 77,
+   "agree": 58
+  },
+  {
+   "brand": "ARABIYAT PRESTIGE",
+   "name": "Aariz",
+   "votes": 41,
+   "agree": 13
+  },
+  {
+   "brand": "MAWWAL ARABIA",
+   "name": "Najma",
+   "votes": 32,
+   "agree": 2
+  },
+  {
+   "brand": "MYKONOS",
+   "name": "Sorrento",
+   "votes": 32,
+   "agree": 6
+  },
+  {
+   "brand": "SPIRIT OF KINGS",
+   "name": "Arrakis",
+   "votes": 43,
+   "agree": 28
+  },
+  {
+   "brand": "ARMAF",
+   "name": "Caballo Pour Homme",
+   "votes": 42,
+   "agree": 27
+  }
+ ],
+ "observacao": "Contagens com 'k' no Fragrantica vêm arredondadas (por exemplo, 2,3k)."
+}

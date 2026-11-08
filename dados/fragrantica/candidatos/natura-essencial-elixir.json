@@ -1,0 +1,268 @@
+{
+ "perfume": "Essencial Elixir Natura for men",
+ "marca": "Natura",
+ "fonte": "https://www.fragrantica.com/perfume/Natura/Essencial-Elixir-48586.html",
+ "coletado_em": "2026-11-07",
+ "reviews_carregadas": 14,
+ "nota_media": 4.38,
+ "votos_da_nota": 859,
+ "acordes_principais_percentual": {
+  "woody": 100,
+  "warm spicy": 87.2,
+  "aromatic": 76.8,
+  "leather": 68.6,
+  "fresh spicy": 62.1,
+  "powdery": 59.9,
+  "vanilla": 58.2,
+  "citrus": 51.6,
+  "animalic": 51.4,
+  "amber": 48.6
+ },
+ "reacoes": {
+  "love": 500,
+  "like": 249,
+  "ok": 59,
+  "dislike": 40,
+  "hate": 11
+ },
+ "estacoes_e_periodo": {
+  "winter": 597,
+  "spring": 217,
+  "summer": 43,
+  "fall": 531,
+  "day": 151,
+  "night": 601
+ },
+ "fixacao": {
+  "very weak": 15,
+  "weak": 23,
+  "moderate": 186,
+  "long lasting": 368,
+  "eternal": 55
+ },
+ "projecao": {
+  "intimate": 39,
+  "moderate": 307,
+  "strong": 255,
+  "enormous": 48
+ },
+ "genero": {
+  "female": 8,
+  "more female": 1,
+  "unisex": 17,
+  "more male": 75,
+  "male": 444
+ },
+ "custo_beneficio": {
+  "way overpriced": 13,
+  "overpriced": 17,
+  "ok": 145,
+  "good value": 223,
+  "great value": 116
+ },
+ "notas": {
+  "TOP NOTES": [
+   "Cardamom",
+   "Black Pepper",
+   "Pink Pepper",
+   "Mandarin Orange",
+   "Grapefruit",
+   "Lemon",
+   "Cassis",
+   "Sage",
+   "Juniper"
+  ],
+  "MIDDLE NOTES": [
+   "Leather",
+   "Lavender",
+   "Violet",
+   "Geranium"
+  ],
+  "BASE NOTES": [
+   "Cognac",
+   "Vanilla",
+   "Benzoin",
+   "Sandalwood",
+   "Cedar",
+   "Musk",
+   "Vetiver",
+   "Patchouli",
+   "Oakmoss"
+  ]
+ },
+ "descricao": "Essencial Elixir by Natura is a Woody fragrance for men. Essencial Elixir was launched in 2017. The nose behind this fragrance is Verônica Kato. Top notes are Cardamom, Black Pepper, Pink Pepper, Mandarin Orange, Grapefruit, Lemon, Cassis, Sage and Juniper; middle notes are Leather, Lavender, Violet and Geranium; base notes are Cognac, Vanilla, Benzoin, Sandalwood, Cedar, Musk, Vetiver, Patchouli and Oakmoss.",
+ "pros_e_contras_resumo_ia": {
+  "pros": [
+   {
+    "agree": 19,
+    "disagree": 1,
+    "text": "Long-lasting fragrance"
+   },
+   {
+    "agree": 16,
+    "disagree": 0,
+    "text": "Elegant, sophisticated, and refined aroma"
+   },
+   {
+    "agree": 5,
+    "disagree": 0,
+    "text": "Widely considered superior to CH Men Privé"
+   },
+   {
+    "agree": 4,
+    "disagree": 0,
+    "text": "Exceptional value for high-quality ingredients"
+   },
+   {
+    "agree": 4,
+    "disagree": 0,
+    "text": "Seductive blend of leather, cognac, and vanilla"
+   }
+  ],
+  "cons": [
+   {
+    "agree": 12,
+    "disagree": 3,
+    "text": "Strongly masculine, traditional character"
+   },
+   {
+    "agree": 8,
+    "disagree": 3,
+    "text": "May be too strong for some users"
+   },
+   {
+    "agree": 4,
+    "disagree": 0,
+    "text": "Best reserved exclusively for cold weather"
+   },
+   {
+    "agree": 1,
+    "disagree": 4,
+    "text": "Challenging, fuel-like or animalic opening"
+   }
+  ]
+ },
+ "lembra_votos": [
+  {
+   "brand": "CAROLINA HERRERA",
+   "name": "CH Men Prive",
+   "votes": 329,
+   "agree": 56
+  },
+  {
+   "brand": "O BOTICÁRIO",
+   "name": "Malbec X",
+   "votes": 138,
+   "agree": 47
+  },
+  {
+   "brand": "GIESSO",
+   "name": "No. 01",
+   "votes": 33,
+   "agree": 5
+  },
+  {
+   "brand": "THERA COSMÉTICOS",
+   "name": "Sucre",
+   "votes": 25,
+   "agree": 12
+  },
+  {
+   "brand": "O BOTICÁRIO",
+   "name": "Malbec Eau de Parfum",
+   "votes": 9,
+   "agree": 9
+  },
+  {
+   "brand": "BENTLEY",
+   "name": "Bentley for Men Intense",
+   "votes": 19,
+   "agree": 32
+  },
+  {
+   "brand": "JEQUITI",
+   "name": "Fábio Jr. Legacy",
+   "votes": 5,
+   "agree": 4
+  },
+  {
+   "brand": "DOLCE&GABBANA",
+   "name": "The One for Men Eau de Parfum",
+   "votes": 16,
+   "agree": 26
+  },
+  {
+   "brand": "L'OCCITANE EN PROVENCE",
+   "name": "Eau des Baux",
+   "votes": 4,
+   "agree": 3
+  },
+  {
+   "brand": "HINODE",
+   "name": "Grand Reserva",
+   "votes": 13,
+   "agree": 21
+  },
+  {
+   "brand": "AVON",
+   "name": "Black Essential Leather",
+   "votes": 3,
+   "agree": 2
+  },
+  {
+   "brand": "TED LAPIDUS",
+   "name": "Poker Face",
+   "votes": 3,
+   "agree": 2
+  },
+  {
+   "brand": "JOOP!",
+   "name": "Wow!",
+   "votes": 4,
+   "agree": 5
+  },
+  {
+   "brand": "ROBERTO CAVALLI",
+   "name": "Roberto Cavalli Uomo La Notte",
+   "votes": 3,
+   "agree": 3
+  },
+  {
+   "brand": "DIOR",
+   "name": "Dior Homme Intense 2025",
+   "votes": 10,
+   "agree": 17
+  },
+  {
+   "brand": "EUDORA",
+   "name": "Volpe Next",
+   "votes": 4,
+   "agree": 5
+  },
+  {
+   "brand": "VIKING",
+   "name": "San Bernardino Route 66 Viking Elixir",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "HUGO BOSS",
+   "name": "Boss Bottled Elixir",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "GRANADO",
+   "name": "Boemia",
+   "votes": 3,
+   "agree": 4
+  },
+  {
+   "brand": "FRENCH AVENUE",
+   "name": "Scorpio",
+   "votes": 1,
+   "agree": 1
+  }
+ ],
+ "observacao": "Contagens com 'k' no Fragrantica vêm arredondadas (por exemplo, 2,3k)."
+}

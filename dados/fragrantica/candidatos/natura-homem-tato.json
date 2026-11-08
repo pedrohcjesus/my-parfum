@@ -1,0 +1,283 @@
+{
+ "perfume": "Homem Tato Natura for men",
+ "marca": "Natura",
+ "fonte": "https://www.fragrantica.com/perfume/Natura/Homem-Tato-68157.html",
+ "coletado_em": "2026-11-07",
+ "reviews_carregadas": 17,
+ "nota_media": 4.33,
+ "votos_da_nota": 1436,
+ "acordes_principais_percentual": {
+  "warm spicy": 100,
+  "woody": 81.0,
+  "powdery": 69.6,
+  "leather": 67.1,
+  "fresh spicy": 59.0,
+  "aromatic": 58.1,
+  "amber": 54.7,
+  "iris": 53.3,
+  "animalic": 50.9,
+  "musky": 49.7
+ },
+ "reacoes": {
+  "love": 796,
+  "like": 435,
+  "ok": 114,
+  "dislike": 72,
+  "hate": 19
+ },
+ "estacoes_e_periodo": {
+  "winter": 1000,
+  "spring": 403,
+  "summer": 84,
+  "fall": 957,
+  "day": 346,
+  "night": 1000
+ },
+ "fixacao": {
+  "very weak": 15,
+  "weak": 30,
+  "moderate": 357,
+  "long lasting": 638,
+  "eternal": 42
+ },
+ "projecao": {
+  "intimate": 57,
+  "moderate": 646,
+  "strong": 331,
+  "enormous": 32
+ },
+ "genero": {
+  "female": 6,
+  "more female": 3,
+  "unisex": 57,
+  "more male": 186,
+  "male": 847
+ },
+ "custo_beneficio": {
+  "way overpriced": 12,
+  "overpriced": 34,
+  "ok": 220,
+  "good value": 493,
+  "great value": 301
+ },
+ "notas": {
+  "TOP NOTES": [
+   "Black Pepper",
+   "Cardamom",
+   "Saffron",
+   "Pataqueira"
+  ],
+  "MIDDLE NOTES": [
+   "Iris",
+   "Sandalwood",
+   "Cashmeran",
+   "Patchouli"
+  ],
+  "BASE NOTES": [
+   "Leather",
+   "Amber",
+   "Coumarin",
+   "Musk"
+  ]
+ },
+ "descricao": "Homem Tato by Natura is a Woody fragrance for men. Homem Tato was launched in 2021. Homem Tato was created by Verônica Kato and Jean-Christophe Hérault. Top notes are Black Pepper, Cardamom, Saffron and Pataqueira; middle notes are Iris, Sandalwood, Cashmeran and Patchouli; base notes are Leather, Amber, Coumarin and Musk.",
+ "pros_e_contras_resumo_ia": {
+  "pros": [
+   {
+    "agree": 37,
+    "disagree": 1,
+    "text": "Spicy opening"
+   },
+   {
+    "agree": 34,
+    "disagree": 1,
+    "text": "Interesting woody development"
+   },
+   {
+    "agree": 34,
+    "disagree": 2,
+    "text": "Beautiful blend"
+   },
+   {
+    "agree": 26,
+    "disagree": 3,
+    "text": "Long-lasting scent"
+   },
+   {
+    "agree": 22,
+    "disagree": 1,
+    "text": "Floral notes add complexity"
+   },
+   {
+    "agree": 19,
+    "disagree": 2,
+    "text": "Sophisticated yet approachable and easy wear"
+   },
+   {
+    "agree": 18,
+    "disagree": 7,
+    "text": "Suitable for multiple occasions"
+   },
+   {
+    "agree": 5,
+    "disagree": 1,
+    "text": "Exceptional value for the price"
+   },
+   {
+    "agree": 4,
+    "disagree": 2,
+    "text": "High-quality alternative to Bvlgari Man In Black"
+   }
+  ],
+  "cons": [
+   {
+    "agree": 30,
+    "disagree": 4,
+    "text": "May not be suitable for warm weather"
+   },
+   {
+    "agree": 21,
+    "disagree": 8,
+    "text": "Not as versatile as some other fragrances"
+   },
+   {
+    "agree": 12,
+    "disagree": 12,
+    "text": "Heavy powdery iris and wood profile"
+   },
+   {
+    "agree": 5,
+    "disagree": 1,
+    "text": "Sharp peppery opening can be polarizing"
+   },
+   {
+    "agree": 2,
+    "disagree": 2,
+    "text": "Scent profile leans more mature"
+   }
+  ]
+ },
+ "lembra_votos": [
+  {
+   "brand": "BVLGARI",
+   "name": "Bvlgari Man In Black",
+   "votes": 459,
+   "agree": 60
+  },
+  {
+   "brand": "BVLGARI",
+   "name": "Bvlgari Man In Black Parfum",
+   "votes": 57,
+   "agree": 14
+  },
+  {
+   "brand": "GRANADO",
+   "name": "Boemia",
+   "votes": 76,
+   "agree": 71
+  },
+  {
+   "brand": "VIKTOR&ROLF",
+   "name": "Spicebomb",
+   "votes": 67,
+   "agree": 76
+  },
+  {
+   "brand": "PARIS ELYSEES",
+   "name": "Dark Caviar",
+   "votes": 14,
+   "agree": 5
+  },
+  {
+   "brand": "AVON",
+   "name": "Absolute by Exclusive",
+   "votes": 6,
+   "agree": 4
+  },
+  {
+   "brand": "FRAGRANCE WORLD",
+   "name": "Bavaria Man Intense",
+   "votes": 8,
+   "agree": 9
+  },
+  {
+   "brand": "STELLA DUSTIN",
+   "name": "Lumina Black",
+   "votes": 11,
+   "agree": 15
+  },
+  {
+   "brand": "O BOTICÁRIO",
+   "name": "Malbec Black",
+   "votes": 70,
+   "agree": 135
+  },
+  {
+   "brand": "PARFUMS DE MARLY",
+   "name": "Akaster",
+   "votes": 4,
+   "agree": 3
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Cassius",
+   "votes": 6,
+   "agree": 8
+  },
+  {
+   "brand": "VIKTOR&ROLF",
+   "name": "Spicebomb Extreme",
+   "votes": 17,
+   "agree": 30
+  },
+  {
+   "brand": "MERCEDES-BENZ",
+   "name": "Mercedes Benz Man Private",
+   "votes": 4,
+   "agree": 5
+  },
+  {
+   "brand": "FRAGRANCE WORLD",
+   "name": "Eau De Spice Extreme",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "ALCHEMIST",
+   "name": "OUT WEST A.M",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "MAISON ALHAMBRA",
+   "name": "Summit Elixir",
+   "votes": 1,
+   "agree": 0
+  },
+  {
+   "brand": "SHULTON COMPANY",
+   "name": "Old Spice Original",
+   "votes": 3,
+   "agree": 4
+  },
+  {
+   "brand": "ARMAF",
+   "name": "Signature Night",
+   "votes": 4,
+   "agree": 6
+  },
+  {
+   "brand": "ZARA",
+   "name": "Warm Black",
+   "votes": 2,
+   "agree": 2
+  },
+  {
+   "brand": "NATURA",
+   "name": "Kaiak Ultra Masculino",
+   "votes": 1,
+   "agree": 0
+  }
+ ],
+ "observacao": "Contagens com 'k' no Fragrantica vêm arredondadas (por exemplo, 2,3k)."
+}
